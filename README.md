@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/ebc114ff-e611-4d22-bed8-46d2a39fac2d
 
 
 
-#### CIA 2
+### CIA 2
 ## Min-Max Algorithm
 ![image](https://github.com/user-attachments/assets/8d4a6fc8-7583-4797-b6a6-885ccdc8ff63)
 ## Alpha Beta Pruning
