@@ -30,7 +30,8 @@
 ## Branch and Bound with Extended List
 ![image](https://github.com/user-attachments/assets/abffb466-df3b-4f23-8b9e-fa94783195d7)
 ![image](https://github.com/user-attachments/assets/faef0c4f-a4a3-4603-ae9f-66bf7902aa86)
-https://github.com/user-attachments/assets/305beb7c-b893-4acf-a3d4-eb3afabab698
+https://github.com/user-attachments/assets/7d4dd07a-ff4f-4b3f-9a3c-547f2d7107a0
+
 
 
 ## A* Algorithm
